@@ -3,6 +3,8 @@ This is a collection of resources, notes and seeds related to running FF4FE
 
  - [HP Cheatsheet](./built/hp-cheatsheet.png)
  - [Agility Cheatsheet](./built/speeds-cheatsheet.png)
+ - [Quick Exp (Mages) Cheatsheet](./built/quickexp-cheatsheet.png)
+ - [Calculating Exp Cheatsheet](./built/calcexp-cheatsheet.png)
  - Step charts: [step counting](https://github.com/Apjjm/EncounterTool/tree/main/.examples) | [formations only](https://github.com/Apjjm/EncounterTool/tree/main/.examples/formations-only)
 
 
